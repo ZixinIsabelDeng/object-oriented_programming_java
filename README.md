@@ -34,11 +34,11 @@ If you encounter any issues with these programs or have suggestions for improvem
 
 ## Authors
 
-[Your Name]
+Zixin Deng
 
 ## Acknowledgments
 
-The assignments were part of the curriculum for the Object-Oriented Programming course at [Your School Name]. Thanks to the course instructors for providing guidance and support throughout the course.
+The assignments were part of the curriculum for the Object-Oriented Programming. Thanks to the course instructors for providing guidance and support throughout the course.
 
 ## Version History
 
